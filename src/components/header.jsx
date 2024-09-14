@@ -13,7 +13,7 @@ function NavMenu() {
             <nav className='nav-menu'>
                 <div className="logo">
                 <Link to='/'>
-                    <img src="../../public/img/logo/logo2_crop.png" alt="" srcset="" />
+                    <img src="../../img/logo/logo2_crop.png" alt="" srcset="" />
                     </Link>
                 </div>
                 <ul className='ul-nav'>

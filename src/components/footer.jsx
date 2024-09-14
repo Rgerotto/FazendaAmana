@@ -15,7 +15,7 @@ function Footer() {
                 </div>
                 <div className="logo-footer">
                     <Link to='/'>
-                    <img src="../../public/img/logo/logo2_crop.png" alt="" srcset="" />
+                    <img src="../../img/logo/logo2_crop.png" alt="" srcset="" />
                     </Link>
                 </div>
                 <div className="contact-footer">
