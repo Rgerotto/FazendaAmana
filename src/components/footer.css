@@ -1,0 +1,29 @@
+.footer{
+    height: 100px;
+    width: 100%;
+    padding: .4rem 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.h3-footer{
+    text-transform: uppercase;
+}
+.follow, .contact-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logo-footer{
+    height: 100%;
+}
+.logo-footer img{
+    height: 100%;
+}
+.social a:not(:last-child){
+    margin-right: 2rem;
+}
+.fa-instagram, .fa-square-facebook{
+    font-size: 30px;
+    color: rgb(13, 72, 13);
+}

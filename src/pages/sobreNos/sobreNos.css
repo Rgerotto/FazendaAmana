@@ -1,0 +1,22 @@
+.sobre-nos{
+    /* height: calc(100vh - 190px); */
+    width: 100%;
+    padding: 2rem 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text-sobre{
+    padding-bottom: 2rem;
+    width: 800px;
+    margin-top: 2rem;
+    line-height: 35px;
+}
+.pic{
+    height: 400px;
+    display: flex;
+    gap: 20px;
+}
+.pic img{
+    height: 100%;
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Alface Crespa",
+    "category": "Folhosas",
+    "price": 2.50,
+    "stock": 150,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBZrDpvbTUrsI2OQhoOGPwjCGAAeEYujVhA&s",
+    "description": "Alface crespa hidropônica fresca."
+  },
+  {
+    "id": 2,
+    "name": "Rúcula",
+    "category": "Folhosas",
+    "price": 3.00,
+    "stock": 100,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRrV29RWoEx8IHt2omc_c3MhMPzshCmBhPQ&s",
+    "description": "Rúcula hidropônica de alta qualidade."
+  },
+  {
+    "id": 3,
+    "name": "Espinafre",
+    "category": "Folhosas",
+    "price": 2.80,
+    "stock": 120,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKILK1GD588ny1cclfNfNKYBOyXmv-39imlA&s",
+    "description": "Espinafre hidropônico fresco e nutritivo."
+  },
+  {
+    "id": 4,
+    "name": "Manjericão",
+    "category": "Ervas",
+    "price": 4.00,
+    "stock": 80,
+    "img": "https://mercadoorganico.com/6372-large_default/manjericao-organico.jpg",
+    "description": "Manjericão hidropônico com aroma intenso."
+  },
+  {
+    "id": 5,
+    "name": "Coentro",
+    "category": "Ervas",
+    "price": 2.00,
+    "stock": 60,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3iOETC5d_7bsg_PGHvxknOn2yJzm47RPqg&s",
+    "description": "Coentro hidropônico fresco."
+  },
+  {
+    "id": 6,
+    "name": "Alface Americana",
+    "category": "Folhosas",
+    "price": 3.50,
+    "stock": 200,
+    "img": "https://mercadoorganico.com/6470-large_default/alface-lisa-organica-un-osm.jpg",
+    "description": "Alface americana hidropônica crocante."
+  }
+]
