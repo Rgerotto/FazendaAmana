@@ -1,7 +1,7 @@
 .nav-menu{
     width: 100%;
     height: auto;
-    padding: 0 1rem;
+    padding: 0;
 
     display: flex;
     align-items: center;
@@ -23,8 +23,9 @@
 }
 .ul-nav{
     height: 100%;
-    width: auto;
+    width: 700%;
     display: flex;
+    justify-content: flex-end;
     align-items: center;
 }
 
@@ -98,4 +99,18 @@
   .fa-sun {
     font-size: 10px;
     color: rgb(199, 171, 99);
+  }
+
+  @media (max-width: 860px) {
+    .li-nav{
+      padding: 1rem 2rem;
+      background-color: aqua;
+  }
+  }
+
+  @media (max-width: 660px) {
+    .li-nav{
+      padding: .6rem 1rem;
+      background-color: rgb(57, 141, 141);
+  }
   }

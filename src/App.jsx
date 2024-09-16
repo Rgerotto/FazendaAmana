@@ -15,7 +15,7 @@ function App() {
           <>
     <NavMenu />
     <HomePage />
-    <Footer />
+    
     </>
         } />
         <Route path='/sobre' element={<Sobre/>} />

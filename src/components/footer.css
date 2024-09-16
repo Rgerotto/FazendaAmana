@@ -27,3 +27,14 @@
     font-size: 30px;
     color: rgb(13, 72, 13);
 }
+@media (max-width:760px) {
+    .footer{
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .logo-footer{
+        height: 70px;
+    }
+}

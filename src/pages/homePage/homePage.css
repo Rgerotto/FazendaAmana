@@ -1,4 +1,5 @@
 .container-homePage {
+  height: 100%;
     display: flex;
     justify-content: space-between; /* Espaçamento entre a lista de produtos e o carrinho */
     align-items: flex-start; /* Alinha o conteúdo no topo */
@@ -6,14 +7,14 @@
   }
   
   .product-list {
-    height: 900px;
+    height: auto;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
   }
   .card{
     height: 400px;
-    width: 300px;
+    width: 250px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,7 +29,7 @@
     margin-bottom: 1rem;
   }
   .input input{
-    width: 20px;
+    width: 40px;
     margin-left: .5rem;
   }
   .cart {
@@ -68,5 +69,9 @@
   
   button:hover {
     background-color: #218838;
+  }
+
+  @media (max-width:760px) {
+
   }
   

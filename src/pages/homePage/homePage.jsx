@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import data from '../../../data.json';
 import Head from '../../components/head';
 import Header from '../../components/header'
+import Footer from '../../components/footer'
 import './homePage.css';
 
 function HomePage() {
@@ -106,6 +107,7 @@ function HomePage() {
           {cart.length > 0 && <button onClick={handleCheckout}>Finalizar Compra</button>}
         </section>
       </div>
+      <Footer/>
     </>
   );
 }
